@@ -44,7 +44,7 @@ After this lesson, you'll be able to
 
 * [Practice Pandas on Data Camp](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
 * [Practice matplotlib on Data Camp](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
-* Python Best practices [https://www.python.org/dev/peps/pep-0008/#comments]
-* Anti-Patterns in Python Programming[http://lignos.org/py_antipatterns]
-* Python tends to outperform R, and using numba can speed Python up even more[http://numba.pydata.org]
+* [Python Best practices](https://www.python.org/dev/peps/pep-0008/#comments)
+* [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns)
+* [Python tends to outperform R](http://numba.pydata.org), and using numba can speed Python up even more
 * There are a ton of public notebooks - just have fun exploring the [IPython Notebook Viewer](http://nbviewer.ipython.org)
