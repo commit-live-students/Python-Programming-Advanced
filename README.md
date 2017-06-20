@@ -30,6 +30,10 @@ After this lesson, you'll be able to
 
 * Python Programming Advanced
 
+## Instructor Codealong
+* [Pandas](https://github.com/commit-live-students/fsdse-python-programming-advanced/blob/master/Python-Pandas.ipynb)
+* [Matplotlib](https://github.com/commit-live-students/fsdse-python-programming-advanced/blob/master/Python-Matplotlib.ipynb)
+
 
 ## Assignments 
 * [Assignment 1] 
